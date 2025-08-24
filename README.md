@@ -1,13 +1,5 @@
-# Olá Mundo
+# mini-bio-max-verstappen
 
-![Gif Dev](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+## The aim of this project is to briefly and simply tell a little about my idol, Max Verstappen.
 
-## Front End Developer
-
-Olá sou Lucas, dev Front End, buscando sempre novos conhecimento, formado em Análise e Desenvovimento de Sistemas. Apaixonado por tecnologia e o quanto ela pode mudar a vidas pessoas.
-
-## 💻 Tech Stack
-
-![Ícones das Tecnologias](https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,git,github&theme=dark)
-
-[Acesse meu Linkedin](https://www.linkedin.com/in/lucas-martins-73472b255/)
+## Here you will learn a little about the beginning of his journey to F1, some historical achievements, and comment on his four titles, which are what he has won up to the time of writing this article.
